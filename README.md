@@ -24,9 +24,10 @@ The objective is to model a simple banking environment. Specifically, you will b
 
 An example 
 customers.txt file would be: {jill,450}.
-{joe,157}.																
+{joe,157}.					 											
 {bob,100}.																
 {sue,125}.																
+
 An example banks.txt file would be:													
 {rbc,800}.																
 {bmo,700}.																
