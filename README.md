@@ -10,7 +10,8 @@ The same application written in java too. To run the java application.
 1. Either create a java project or run in command line
 	 Command line :-
 		1. In current directory -> Enter commands 
-				a) javac money.java 
+		
+				a) javac money.java 	                                                                               		
 				b) java money       
 
 
